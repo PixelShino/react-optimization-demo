@@ -1,11 +1,17 @@
 # React Optimization Demo
 
-[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.x-purple)](https://vitejs.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)](https://www.ecma-international.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-Styling-orange)](https://www.w3.org/Style/CSS/)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Font Awesome](https://img.shields.io/badge/Icons-Font%20Awesome-%23339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 
-## 🇬🇧 English
+<details><summary>
+
+## English verison
+  
+</summary>
+
 
 ### Project Description
 
@@ -18,12 +24,7 @@ This project demonstrates advanced React optimization techniques to improve perf
 - **Interactive UI**: Simple counter and archive toggle functionality
 - **Educational**: On-page explanations of optimization techniques
 
-### Technologies Used
 
-- **React 18**: Utilizing hooks (useState, useMemo) and memo for component optimization
-- **Vite**: Fast, modern frontend build tool
-- **CSS3**: Custom styling with responsive design
-- **Font Awesome**: Icon library for UI elements
 
 ### What I Learned
 
@@ -35,23 +36,10 @@ As a junior frontend developer, this project helped me understand:
 - How to properly implement state management for large datasets
 - Practical application of React hooks for performance optimization
 
-### Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/PixelShino/react-optimization-demo.git
+</details>
 
-# Navigate to project directory
-cd react-optimization-demo
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
----
 
 ## 🇷🇺 Русский
 
@@ -66,12 +54,6 @@ npm run dev
 - **Интерактивный интерфейс**: Простой счетчик и функциональность переключения архива
 - **Обучающий характер**: Пояснения техник оптимизации прямо на странице
 
-### Используемые технологии
-
-- **React 18**: Использование хуков (useState, useMemo) и memo для оптимизации компонентов
-- **Vite**: Быстрый, современный инструмент сборки фронтенда
-- **CSS3**: Пользовательские стили с адаптивным дизайном
-- **Font Awesome**: Библиотека иконок для элементов интерфейса
 
 ### Чему я научился
 
@@ -83,21 +65,6 @@ npm run dev
 - Как правильно реализовать управление состоянием для больших наборов данных
 - Практическое применение хуков React для оптимизации производительности
 
-### Начало работы
-
-```bash
-# Клонировать репозиторий
-git clone https://github.com/PixelShino/react-optimization-demo.git
-
-# Перейти в директорию проекта
-cd react-optimization-demo
-
-# Установить зависимости
-npm install
-
-# Запустить сервер разработки
-npm run dev
-```
 
 ---
 
